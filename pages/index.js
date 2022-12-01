@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
-
+import Script from 'next/script'
 export default function Home() {
   return (
     <div className="container">
@@ -23,9 +23,9 @@ export default function Home() {
                 <meta name="twitter:description" content="A Personal blog on Web, Personal, and cultural Development"></meta>
                 <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/88948670?s=400&u=37177928f43cd41c701284b1eae589f9235e768a&v=4"></meta>
       
-      
+                <Script  src="https://gist.github.com/lrnecgcysiam/132843824c4c4c895fe0d3fffdda96cd.js" />
       </Head>
-
+      
       <main>
         <Header title="" />
         <p className="description">
