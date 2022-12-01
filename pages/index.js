@@ -2,6 +2,10 @@ import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 import Script from 'next/script'
+import * as FullStory from '@fullstory/browser';
+
+FullStory.init({ orgId: process.env.REACT_APP_FULLSTORY_ORG });
+
 export default function Home() {
   return (
     <div className="container">
