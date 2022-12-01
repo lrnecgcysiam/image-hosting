@@ -18,8 +18,8 @@ export default function Home() {
             {/* <!-- Twitter Meta Tags --> */}
                 <meta name="twitter:card" content="summary_large_image"></meta>
                 <meta property="twitter:domain" content="lrnecgysiam.com"></meta>
-                <meta property="twitter:url" content="https://lrnecgysiam.com/"></meta>
-                <meta name="twitter:title" content="lrnecgcysiam"></meta>
+                <meta property="twitter:url" content="https://mika-jet.lrnecgysiam.com/"></meta>
+                <meta name="twitter:title" content="Mika-Jet"></meta>
                 <meta name="twitter:description" content="A Personal blog on Web, Personal, and cultural Development"></meta>
                 <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/88948670?s=400&u=37177928f43cd41c701284b1eae589f9235e768a&v=4"></meta>
       
