@@ -13,7 +13,17 @@ export default function Home() {
             <meta property="og:type" content="website"></meta>
             <meta property="og:title" content="mika-jet"></meta>
             <meta property="og:description" content="A Personal blog on Web, Personal, and cultural Development"></meta>
-            <meta property="og:image" content="https://avatars.githubusercontent.com/u/88948670?s=96&v=4"></meta>
+            <meta property="og:image" content="https://avatars.githubusercontent.com/u/6336862?s=400&u=a0e9b57d02118d67fddd5947113a8fa01dcca55e&v=4"></meta>
+      
+            {/* <!-- Twitter Meta Tags --> */}
+                <meta name="twitter:card" content="summary_large_image"></meta>
+                <meta property="twitter:domain" content="lrnecgysiam.com"></meta>
+                <meta property="twitter:url" content="https://lrnecgysiam.com/"></meta>
+                <meta name="twitter:title" content="lrnecgcysiam"></meta>
+                <meta name="twitter:description" content="A Personal blog on Web, Personal, and cultural Development"></meta>
+                <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/88948670?s=400&u=37177928f43cd41c701284b1eae589f9235e768a&v=4"></meta>
+      
+      
       </Head>
 
       <main>
