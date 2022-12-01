@@ -13,7 +13,7 @@ export default function Home() {
             <meta property="og:type" content="website"></meta>
             <meta property="og:title" content="mika-jet"></meta>
             <meta property="og:description" content="A Personal blog on Web, Personal, and cultural Development"></meta>
-            <meta property="og:image" content="https://avatars.githubusercontent.com/u/88948670?s=400&u=37177928f43cd41c701284b1eae589f9235e768a&v=4"></meta>
+            <meta property="og:image" content="https://github.com/lrnecgcysiam/next-netlify-starter/blob/main/public/mika.shinnouske.minase.jpg"></meta>
       </Head>
 
       <main>
